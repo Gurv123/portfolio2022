@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/gurvan-buanic.fr/static/css/main.30b69c16.css",
-    "main.js": "/gurvan-buanic.fr/static/js/main.74e71dad.js",
-    "static/media/Gurvan_CV.pdf": "/gurvan-buanic.fr/static/media/Gurvan_CV.5e01a0b6920e21df3e8b.pdf",
-    "static/media/tic_tac_toe.jpg": "/gurvan-buanic.fr/static/media/tic_tac_toe.74c709a0a70e16ca431f.jpg",
-    "static/media/Rokkitt-Regular.ttf": "/gurvan-buanic.fr/static/media/Rokkitt-Regular.f1988be7d42736a9d60a.ttf",
-    "static/media/climb.jpg": "/gurvan-buanic.fr/static/media/climb.8eaa6946715cbc288c92.jpg",
-    "static/media/fleur.jpg": "/gurvan-buanic.fr/static/media/fleur.a0000fd09c1b9fe1b5a0.jpg",
-    "static/media/blackjack.jpg": "/gurvan-buanic.fr/static/media/blackjack.4ebdcdf90dc5523b8ed3.jpg",
-    "index.html": "/gurvan-buanic.fr/index.html",
-    "main.30b69c16.css.map": "/gurvan-buanic.fr/static/css/main.30b69c16.css.map",
-    "main.74e71dad.js.map": "/gurvan-buanic.fr/static/js/main.74e71dad.js.map"
+    "main.css": "/static/css/main.3af3bc56.css",
+    "main.js": "/static/js/main.1d2a67b4.js",
+    "static/media/Gurvan_CV.pdf": "/static/media/Gurvan_CV.5e01a0b6920e21df3e8b.pdf",
+    "static/media/tic_tac_toe.jpg": "/static/media/tic_tac_toe.74c709a0a70e16ca431f.jpg",
+    "static/media/Rokkitt-Regular.ttf": "/static/media/Rokkitt-Regular.f1988be7d42736a9d60a.ttf",
+    "static/media/climb.jpg": "/static/media/climb.8eaa6946715cbc288c92.jpg",
+    "static/media/fleur.jpg": "/static/media/fleur.a0000fd09c1b9fe1b5a0.jpg",
+    "static/media/blackjack.jpg": "/static/media/blackjack.4ebdcdf90dc5523b8ed3.jpg",
+    "index.html": "/index.html",
+    "main.3af3bc56.css.map": "/static/css/main.3af3bc56.css.map",
+    "main.1d2a67b4.js.map": "/static/js/main.1d2a67b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.30b69c16.css",
-    "static/js/main.74e71dad.js"
+    "static/css/main.3af3bc56.css",
+    "static/js/main.1d2a67b4.js"
   ]
 }
