@@ -10,7 +10,7 @@ export const ProjectItems = [
     title: 'La Fleur',
     language: 'PHP',
     details: 'La fleur est un projet fait dans le cadre du BTS, lors de l’apprentissage de PHP. Nous avons suivi un cahier des charges et développer plusieurs versions pour arriver à ce résultat final.',
-    url: 'https://gurvan-buanic.fr/lafleur/accueil.php'
+    url: 'https://www.gurvan-buanic.fr/lafleur/accueil.php'
   },
   {
     id: '1by',
@@ -18,7 +18,7 @@ export const ProjectItems = [
     title: 'Blackjack',
     language: 'HTML | CSS | JAVASCRIPT',
     details: 'Le blackjack est un projet fait dans le cadre du BTS, lors de l’apprentissage du Javascript. Le but a été de développer une page web permettant de jouer au Blackjack.',
-    url: 'https://gurvan-buanic.fr/blackjack/index.html'
+    url: 'https://www.gurvan-buanic.fr/blackjack/index.html'
   },
   {
     id: '1cx',
@@ -26,7 +26,7 @@ export const ProjectItems = [
     title: 'Tic Tac Toe',
     language: 'HTML | CSS | JAVASCRIPT',
     details: 'Le Tic-Tac-Toe est un projet personnel approfondir mes connaissances du Javascript. Le but a été de développer une page web permettant de jouer au Tic-Tac-Toe.',
-    url: 'https://gurvan-buanic.fr/Tic-Tac-Toe/index.html'
+    url: 'https://www.gurvan-buanic.fr/Tic-Tac-Toe/index.html'
   },
   {
     id: '1dw',
