@@ -1,0 +1,58 @@
+.wrapperContact {
+  text-align: center;
+  padding: 10px 20px;
+  width: 500px;
+}
+
+.wrapperContact form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #000;
+}
+
+.wrapperContact form input {
+  border: none;
+  border-radius: 3px;
+  background: #f1f1f1;
+  width: 100%;
+  height: 40px;
+  margin: 10px;
+  padding: 10px;
+  font-size: 1rem;
+  outline: none;
+}
+
+.wrapperContact form textarea {
+  width: 100%;
+  height: 125px;
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  background: #f1f1f1;
+  font-size: 1rem;
+  outline: none;
+}
+
+.wrapperContact form .sendBtn {
+  border: none;
+  border-radius: 10px;
+  background: #f1f1f1;
+  color: #000;
+  margin: 10px;
+  width: 100px;
+  height: 25px;
+  font-size: 1rem;
+}
+
+.resultContact {
+  color: #fff;
+}
+
+@media screen and (max-width: 581px) {
+  .wrapperContact {
+    width: 100%;
+  }
+}

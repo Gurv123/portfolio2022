@@ -1,0 +1,26 @@
+.scrollTopBtn {
+  position: fixed;
+  background: #fff;
+  width: 30px;
+  height: 30px;
+  bottom: 3vh;
+  right: 3vh;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.none {
+  display: none;
+}
+
+.btnUpIcon {
+  color: #1b1b1b;
+}
+
+@media screen and (max-width: 440px) {
+  .scrollTopBtn {
+    right: 2vh;
+    bottom: 2vh;
+  }
+}

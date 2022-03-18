@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Rokkitt";
+  src: url("./fonts/Rokkitt-Regular.ttf") format("truetype");
+}
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Rokkitt", Georgia, serif;
+}
+
+body {
+  background: #f1f1f1ff;
+}
