@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio2022/static/css/main.e6aaa2bb.css",
-    "main.js": "/portfolio2022/static/js/main.261ade6a.js",
+    "main.js": "/portfolio2022/static/js/main.e1dce6a5.js",
     "static/media/Gurvan_CV.pdf": "/portfolio2022/static/media/Gurvan_CV.5e01a0b6920e21df3e8b.pdf",
     "static/media/tic_tac_toe.jpg": "/portfolio2022/static/media/tic_tac_toe.74c709a0a70e16ca431f.jpg",
     "static/media/Rokkitt-Regular.ttf": "/portfolio2022/static/media/Rokkitt-Regular.f1988be7d42736a9d60a.ttf",
@@ -10,10 +10,10 @@
     "static/media/blackjack.jpg": "/portfolio2022/static/media/blackjack.4ebdcdf90dc5523b8ed3.jpg",
     "index.html": "/portfolio2022/index.html",
     "main.e6aaa2bb.css.map": "/portfolio2022/static/css/main.e6aaa2bb.css.map",
-    "main.261ade6a.js.map": "/portfolio2022/static/js/main.261ade6a.js.map"
+    "main.e1dce6a5.js.map": "/portfolio2022/static/js/main.e1dce6a5.js.map"
   },
   "entrypoints": [
     "static/css/main.e6aaa2bb.css",
-    "static/js/main.261ade6a.js"
+    "static/js/main.e1dce6a5.js"
   ]
 }
