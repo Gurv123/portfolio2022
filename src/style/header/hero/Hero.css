@@ -109,7 +109,7 @@
   }
 
   100% {
-    transform: translateY(-1000px);
+    transform: translateY(-100vh);
     opacity: 0;
   }
 }
