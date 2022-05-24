@@ -1,1 +1,41 @@
+#veille .veilleExpli{
+  background: #fff;
+  color: #000;
+  border-radius: 5px;
+  margin: 10px 20px;
+  padding: 20px;
+}
 
+#veille .veilleExpli p{
+  margin: 10px;
+  text-align: justify;
+}
+
+#veille .veilleExpli a{
+  color: rgb(44, 118, 255);
+}
+
+#veille .wrapperVeille{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; 
+}
+
+#veille .wrapperVeille .itemVeille{
+  background: #fff;
+  color: #000;
+  border-radius: 5px;
+  max-width: 450px;
+  margin: 10px 20px;
+  padding: 20px;
+}
+
+#veille .wrapperVeille .itemVeille p,
+#veille .wrapperVeille .itemVeille h4{
+  margin: 10px;
+  text-align: justify;
+}
+
+#veille .wrapperVeille .itemVeille a{
+  color: rgb(44, 118, 255);
+}

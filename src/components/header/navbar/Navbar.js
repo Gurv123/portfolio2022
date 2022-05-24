@@ -15,7 +15,7 @@ class Navbar extends Component {
   render() {
     return (
       <nav className='navbarItems'>
-        <h2 className='navbar-logo'>GurvanB</h2>
+        <a href='/' className='navbar-logo'>GurvanB</a>
         <div className='menu-icon' onClick={this.handleClick}>
           <FontAwesomeIcon icon={this.state.clicked ? faTimes : faBars} className='burgerMenu'/>
         </div>
